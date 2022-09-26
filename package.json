@@ -1,0 +1,27 @@
+{
+  "name": "cypress-javascript-demo",
+  "version": "1.0.0",
+  "description": "cypress javascript demo automation project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/programsbuzz/cypress-javascript-demo.git"
+  },
+  "keywords": [
+    "cypress",
+    "javascript",
+    "automation",
+    "qa",
+    "quality",
+    "assurance"
+  ],
+  "author": "tarun goswami",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/programsbuzz/cypress-javascript-demo/issues"
+  },
+  "homepage": "https://github.com/programsbuzz/cypress-javascript-demo#readme"
+}
